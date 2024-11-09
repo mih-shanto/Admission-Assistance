@@ -1,7 +1,7 @@
 # Admission-Assistance
 <br>
-<b>Navigating Higher Education: The Role of Admission Assistance</b>
-<br> 
+ <div class="center-text">Navigating Higher Education: The Role of Admission Assistance</div>
+<br>  
 "Navigating Higher Education: The Role of Admission Assistance" has been developed. The
 primary goal of this initiative is to establish an admission assistance and management system
 that offers easy accessibility to the general public. The platform serves as a centralized hub
